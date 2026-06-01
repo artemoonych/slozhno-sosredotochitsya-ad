@@ -80,7 +80,6 @@
 
 .header__theme-menu-button {
   width: 70px;
-  border: none;
   border: 1px solid transparent;
   color: var(--button-color);
   text-transform: lowercase;
