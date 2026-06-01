@@ -1,1 +1,1 @@
-https://github.com/artemoonych/slozhno-sosredotochitsya-ad
+https://github.com/artemoonych/slozhno-sosredotochitsya-ad.git
